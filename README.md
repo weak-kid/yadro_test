@@ -1,5 +1,5 @@
-make\n
-in src to compile\n
-./program file_name\n
-to run\n
-test cases in /tests
+make  
+in src to compile  
+./program file_name  
+to run  
+test cases in /tests  
